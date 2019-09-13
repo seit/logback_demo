@@ -9,7 +9,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 @Controller
-@EnableAutoConfiguration
 public class SampleController {
 
     Logger loggerA = org.slf4j.LoggerFactory.getLogger("com.hoge");
